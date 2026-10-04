@@ -27,7 +27,7 @@ The main features used for clustering are:
 * `Annual Income (k$)`
 * `Spending Score (1-100)`
 
-## 🔍 Project Steps
+##  Project Steps
 
 1. Upload the dataset.
 2. Load the dataset using Pandas.
